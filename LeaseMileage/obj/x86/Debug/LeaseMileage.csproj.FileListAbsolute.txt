@@ -1,0 +1,5 @@
+/Users/piercebelton/Projects/LeaseMileage/LeaseMileage/obj/x86/Debug/LeaseMileage.csproj.CoreCompileInputs.cache
+/Users/piercebelton/Projects/LeaseMileage/LeaseMileage/bin/Debug/LeaseMileage.exe
+/Users/piercebelton/Projects/LeaseMileage/LeaseMileage/bin/Debug/LeaseMileage.pdb
+/Users/piercebelton/Projects/LeaseMileage/LeaseMileage/obj/x86/Debug/LeaseMileage.exe
+/Users/piercebelton/Projects/LeaseMileage/LeaseMileage/obj/x86/Debug/LeaseMileage.pdb
